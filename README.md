@@ -1,6 +1,9 @@
 # React-native-Picker-ActionSheet
 A reusable component of a Picker inside ActionSheet for Ios
 
+![ActionSheet](ActionSheet.png)
+
+
 This Project is made using create-react-native-app command.
 
 To Run this project, Clone the repository -> Go to the folder -> run npm install -> run Expo start/ npm start/ yarn start
