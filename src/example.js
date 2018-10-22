@@ -46,10 +46,7 @@ class Example extends Component {
            },
        ]
     };
-
-    onDecline() {
-        this.setState({ displayModal: false });
-      }
+    
     onDeclineAlert() {
         this.setState({ displayAlert: false });
       }
